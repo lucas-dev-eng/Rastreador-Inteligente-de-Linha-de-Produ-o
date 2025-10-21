@@ -1,0 +1,5 @@
+{
+  "name": "Rastreador Inteligente de Linha de Produção",
+  "description": "Uma aplicação inteligente para automatizar a vinculação de produtos, dispositivos Zebra e pallets em uma linha de produção industrial. Este protótipo simula a funcionalidade principal, incluindo escaneamento, associação de dispositivos, vinculação de pallets e detecção de anomalias com IA.",
+  "requestFramePermissions": []
+}
